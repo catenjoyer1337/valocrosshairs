@@ -1,2 +1,0 @@
-# valocrosshairs
-my valorant crosshairs
