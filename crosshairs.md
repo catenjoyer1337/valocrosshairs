@@ -22,4 +22,9 @@ cross_S - 0;s;1;P;u;000000FF;h;0;f;0;s;0;0l;3;0v;3;0g;1;0o;0;0a;1;0f;0;1b;0;S;s;
 ![[Pasted image 20240822205826.png]]
  style5 - 0;c;1;s;1;P;h;0;f;0;s;0;m;1;0l;4;0o;2;0a;1;0e;0.999;1b;0;S;s;0.75;o;1
  ![[Pasted image 20240822205846.png]]
- 
+1312 - 0;s;1;P;u;00FF30FF;o;1;f;0;s;0;0t;1;0l;3;0v;3;0o;2;0a;1;0f;0;1b;0;S;s;0.75;o;1
+![[Screenshot 2025-01-29 002945.png]]
+1/3/2/2 ALEKSANDAR - 0;s;1;P;c;8;u;00FF30FF;h;0;b;1;f;0;s;0;0l;3;0o;2;0a;1;0f;0;1b;0;S;s;0.75;o;1
+![[Screenshot 2025-01-29 003004.png]]
+strikerVLR - 0;s;1;P;c;6;o;1;d;1;f;0;0l;1;0o;1;0a;1;0f;0;1b;0;S;c;0;s;0.75;o;1
+![[Screenshot 2025-01-29 003019.png]]
